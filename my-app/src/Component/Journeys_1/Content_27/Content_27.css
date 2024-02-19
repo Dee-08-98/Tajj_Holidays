@@ -1,0 +1,100 @@
+#contentlast .row .col-lg-6 .a {
+    height: 510px;
+    width: 100%;
+}
+
+#contentlast .row #inf {
+    text-align: center;
+    font-weight: 900;
+    color: black;
+    letter-spacing: 1px;
+    /* font-size: 35px; */
+}
+
+#contentlast .row h2 span {
+    color: chocolate;
+    text-shadow: 1px 1px 1px black;
+
+}
+
+#contentlast .row .col-lg-6 .a img {
+    height: 100%;
+    width: 100%;
+}
+
+#contentlast .row .col-lg-6 .b {
+    height: 100%;
+    width: 100%;
+}
+#contentlast .row .col-lg-6 .b #head {
+    color: black;
+    font-weight: 600;
+}
+#contentlast .row .col-lg-6 .b .pkg span {
+    color: black;
+    font-weight: 900;
+}
+#contentlast .row .col-lg-6 .b .pkg  {
+    color: black;
+    font-weight: 500;
+}
+#contentlast .row .col-lg-6 .b .slhot  {
+    color: black;
+    font-weight: 700;
+}
+#contentlast .row .col-lg-6 .b .slhot span  {
+    color: black;
+    font-weight: 600;
+    font-size: 15px;
+}
+#contentlast .row .col-lg-6 #conclu .c  {
+    height: 100px;
+    border-left: 6px solid chocolate;
+}
+#contentlast .row .col-lg-6 .b #conclu  h6  {
+   color: black;
+   font-weight: 700;
+}
+#contentlast .row .col-lg-6 .b #conclu  h5 .fa  {
+    color: rgb(255, 0, 0);
+    /* padding: 5px 20px; */
+    padding-left: 20px;
+    font-weight: 400;
+    font-size: 15px;
+ }
+ #contentlast .row .col-lg-6 .b #conclu  h5 .facont  {
+   
+    font-weight: 600;
+    font-size: 17px;
+    color: black;
+ }
+ #contentlast .row .col-lg-6 .b #conclu   {
+    float: left;
+
+ }
+ #contentlast .row .col-lg-6 .b #bt  {
+    float: right;
+    /* padding-top: 45px; */
+    padding: 50px 20px;
+
+}
+@media(width<498px){
+    #contentlast .row .col-lg-6 .b #bt  {
+        float:left;
+      
+        padding: 30px 30px;
+    
+    } 
+}
+#btbtnlast{
+    color: rgb(254, 252, 252);
+    background-color: chocolate;
+    font-weight: 900;
+    padding: 5px 17px;
+    border: none;
+    box-shadow: none;
+}
+#pkginfolast{
+    font-weight: 700;
+    color: black;
+}

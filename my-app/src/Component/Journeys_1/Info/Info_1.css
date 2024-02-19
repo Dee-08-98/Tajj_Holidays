@@ -1,0 +1,20 @@
+#Journey .row .col-lg-12 h2{
+    color: black;
+    font-weight: 900;
+    text-align: center;
+
+}
+#Journey .row .col-lg-12 p{
+    color: black;
+    font-weight: 900;
+    margin-top: 55px;
+    word-spacing: 5px;
+    text-align: center;
+    word-break: break-all;
+    font-family: serif;
+}
+
+#Journey .pg span{
+    color: chocolate;
+    font-weight: 900;
+ }

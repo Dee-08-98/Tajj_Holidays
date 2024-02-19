@@ -1,0 +1,73 @@
+#toppkg .row #imag{
+    height: 300px;
+}
+#toppkg .row .col-lg-4{
+   
+    padding: 17px 25px;
+}
+
+#toppkg .row .col-lg-3 img{
+    height: 100%;
+    width: 100%;
+}
+#toppkg .row #nd h5 , p {
+  color: black;
+  font-weight: 900;
+}
+#toppkg .row #nd p {
+    color:red;
+    text-decoration: underline;
+    font-weight: 600;
+    font-family: italic;
+    margin-top: 25px;
+  }
+  #toppkg .row #nd h6 {
+    color: black;
+    font-weight: 600;
+    font-family: italic;
+    margin-top: 25px;
+  }
+#toppkg .row #mid{
+    border-left: 6px solid chocolate;
+    /* padding: 7px 10px; */
+    font-family: italic;
+    font-weight: 900;
+    background-color: rgb(163, 197, 197);
+}
+#toppkg .row .col-lg-3 .dot{
+    font-weight: 900;
+    color: black;
+    font-size: 30px;
+}
+#toppkg .row #lst {
+   padding-top: 50px;
+   padding-left: 20px;
+   
+}
+#toppkg .row #lst p{
+    font-weight: 600;
+    color: black;
+    font-family: italic;
+}
+#toppkg .row #lst h4{
+    font-weight: 600;
+    color: black;
+    font-family: italic;
+}
+#toppkg .row #lst button {
+    color: White;
+    background-color: chocolate;
+    border: none;
+    letter-spacing: 1px;
+    font-weight: 900;
+    text-shadow: 1px 1px 1px black;
+    box-shadow: none;
+    padding: 5px 10px;
+}
+#toppkg .row h2{
+    color: black;
+    font-weight: 900;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 45px;
+}

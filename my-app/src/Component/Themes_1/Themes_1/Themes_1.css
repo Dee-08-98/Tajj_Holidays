@@ -1,0 +1,21 @@
+#Themes .row .col-lg-12 h2{
+    color: black;
+    font-weight: 900;
+    text-align: center;
+
+}
+#Themes .row .col-lg-12 p{
+    color: black;
+    font-weight: 600;
+
+    margin-top: -15px;
+    word-spacing: 5px;
+    text-align: center;
+    word-break: break-all;
+    font-family: serif;
+}
+
+#Themes .pg span{
+    color: chocolate;
+    font-weight: 900;
+ }

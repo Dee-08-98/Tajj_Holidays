@@ -1,0 +1,85 @@
+#Trending_Offers .row h2{
+    color: black;
+    font-weight: 800;
+    text-align: center;
+    padding: 50px 0px;
+ }
+ 
+
+ /* #Trending_Offers .row .col-lg-3 .card .inner .b{
+     height: 70px;
+ }
+ #Trending_Offers .row .col-lg-3 .card .inner .c{
+    height: 120px;
+}
+
+#Trending_Offers .row .col-lg-3 .card .inner .d{
+    height: 30px;
+}
+
+#Trending_Offers .row .col-lg-3 .card .a{
+    height: 300px;
+}
+
+#Trending_Offers .row .col-lg-3 .card {
+    height: 550px;
+} */
+
+
+#Trending_Offers .row .col-lg-3 .card {
+    height: 600px;
+    border: none;
+}
+
+
+#Trending_Offers .row .col-lg-3 .card .a{
+    height: 300px;
+    border-radius: 5%;
+}
+
+#Trending_Offers .row .col-lg-3 .card .inner{
+    height: 300px;
+}
+#Trending_Offers .row .col-lg-3 .card .inner .b{
+    height: 90px;
+}
+#Trending_Offers .row .col-lg-3 .card .inner .c{
+    height: 100px;
+}
+
+#Trending_Offers .row .col-lg-3 .card .inner .d{
+    height: 70px;
+    margin-top: 15px;
+}
+ #Trending_Offers .row .col-lg-3 .card .a img{
+     height: 100%;
+     width: 100%;
+    border-radius: 5%;
+
+ }
+ #Trending_Offers .row .col-lg-3 .card .inner .b h5{
+    color: black;
+    font-weight: 700;
+    margin-top: 20px;
+    word-break: break-all;
+    font-size: 17px;
+    word-spacing: 2px;
+ }
+ #Trending_Offers .row .col-lg-3 .card .inner .c p{
+     color: black;
+    word-break: break-all;
+    font-family: serif;
+    font-weight: 500;
+    font-family: serif;
+
+
+  }
+  #Trending_Offers .row .col-lg-3 .card .inner  button{
+   border: none;
+   color: white;
+   background-color:chocolate;
+   padding: 7px 17px;
+   width: 100%;
+   font-weight: 900;
+   letter-spacing: 1px;
+  }

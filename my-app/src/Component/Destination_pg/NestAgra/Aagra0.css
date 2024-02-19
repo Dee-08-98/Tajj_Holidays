@@ -1,0 +1,15 @@
+#topabout .row .col-lg-12 .az span{
+    font-weight: 900;
+}
+#topabout .row .col-lg-12 .az .One1{
+    color: chocolate;
+}
+#topabout .row .col-lg-12 .az .One2{
+    color:rgb(0, 0, 0);
+}
+#topabout .row .col-lg-12 .az #top{
+    color:green;
+    font-weight: 900;
+    /* padding-left: 10px; */
+    font-size: 17px;
+}

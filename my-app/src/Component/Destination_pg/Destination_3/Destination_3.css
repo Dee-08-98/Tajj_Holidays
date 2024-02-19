@@ -1,0 +1,86 @@
+#des3 .row h2 {
+    color: black;
+    font-weight: 800;
+    text-align: center;
+    padding: 50px 0px;
+}
+
+#des3 .row .col-lg-3 .card {
+    height: 530px;
+    border: none;
+}
+
+#des3 .row .col-lg-3 .card .a {
+    height: 380px;
+}
+
+#des3 .row .col-lg-3 .card .b {
+    padding: 0px 10px;
+    height: 50px;
+
+}
+#des3 .row .col-lg-3 .card .d {
+    padding: 0px 10px;
+    height: 50px;
+
+}
+
+#des3 .row .col-lg-3 .card .c {
+    padding: 0px 10px;
+    height: 50px;
+
+}
+
+#des3 .row .col-lg-3 .card .a img {
+    height: 100%;
+    width: 100%;
+    border-radius: 5%;
+
+}
+
+#des3 .row .col-lg-3 .card .b h5 {
+    color: black;
+    font-weight: 900;
+    margin-top: 20px;
+    font-size: 20px;
+    word-spacing: 2px;
+}
+#des3 .row .col-lg-3 .card .d h5 {
+    color: black;
+    font-weight: 900;
+    margin-top: 20px;
+    font-size: 20px;
+    word-spacing: 2px;
+}
+#des3 .row .col-lg-3 .card .d span {
+    color: rgb(255, 0, 0);
+    /* font-weight: 900;
+    margin-top: 20px;
+    font-size: 20px;
+    word-spacing: 2px; */
+}
+
+#des3 .row .col-lg-3 .card .c button {
+    border: none;
+    color: white;
+    background-color: chocolate;
+    padding: 7px 17px;
+    width: 100%;
+    font-weight: 900;
+    letter-spacing: 1px;
+    margin-top: 10px;
+}
+#next{
+   left: 50%;
+   position: absolute;
+   transform: translateX(-50%);
+}
+
+/* #imgsec .row .col-lg-3 .card .b .btn{
+    
+    margin-top: 35px;
+  }
+  #imgsec .row .col-lg-3 .card .b .btnn{
+    
+    margin-top: 15px;
+  } */

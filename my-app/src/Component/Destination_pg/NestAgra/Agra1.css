@@ -1,0 +1,28 @@
+
+
+#Aagra .row .col-lg-12 .d h6{
+    color: rgb(0, 0, 0);
+    font-weight: 900;
+    font-size: 22px;
+padding: 10px 25px;
+
+}
+#Aagra .row .col-lg-6 .b {
+    /* height: 500px; */
+padding: 10px 25px;
+
+}
+#Aagra .row .col-lg-6 .b p {
+    color: black;
+    font-weight: 600;
+    word-break: break-all;
+    font-family: italic;
+}
+#Aagra .row .col-lg-6 .c{
+    height: 400px;
+    padding: 10px 25px;
+}
+#Aagra .row .col-lg-6 .c img{
+   height: 100%;
+   width: 100%;
+}

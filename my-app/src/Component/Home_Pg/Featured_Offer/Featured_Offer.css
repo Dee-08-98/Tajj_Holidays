@@ -1,0 +1,61 @@
+#Featured_Offers .row h2{
+   color: black;
+   font-weight: 800;
+   text-align: center;
+   padding: 50px 0px;
+}
+
+#Featured_Offers .row .col-lg-3 .card{
+    height: 500px;
+    border: none;
+}
+#Featured_Offers .row .col-lg-3 .card .a{
+    height: 300px; 
+}
+
+#Featured_Offers .row .col-lg-3 .card .a img{
+    height: 100%;
+    width: 100%;
+    border-radius: 5%;
+}
+#Featured_Offers .row .col-lg-3 .card .b{
+  height: 40px; 
+  width: 100%;
+  padding: 0px 10px;
+ }
+ #Featured_Offers .row .col-lg-3 .card .c{
+    height: 70px; 
+  width: 100%;  
+  padding: 0px 10px;
+  }
+  #Featured_Offers .row .col-lg-3 .card .d{
+    height: 90px; 
+    width: 100%;
+    padding: 0px 10px;
+  }
+#Featured_Offers .row .col-lg-3 .card .b h5{
+   color: black;
+   font-weight: 700;
+   margin-top: 20px;
+   font-size: 17px;
+   word-spacing: 2px;
+}
+#Featured_Offers .row .col-lg-3 .card .c p{
+  color: black;
+  word-break: break-all;
+  font-family: serif;
+  font-weight: 500;
+
+  font-family: serif;
+    margin-top: 20px;
+ }
+ #Featured_Offers .row .col-lg-3 .card .d button{
+  border: none;
+  color: white;
+  background-color:chocolate;
+  padding: 7px 17px;
+  width: 100%;
+  font-weight: 900;
+  letter-spacing: 1px;
+  margin-top: 10px;
+ }

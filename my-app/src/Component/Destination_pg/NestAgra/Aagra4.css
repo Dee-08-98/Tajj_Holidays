@@ -1,0 +1,29 @@
+#Aagra4 .row h5{
+    text-align: center;
+    font-weight: 900;
+    color: black;
+    font-size: 25px;
+}
+/* #Aagra2 .row .col-lg-4  {
+    height: 650px;
+ } */
+#Aagra4 .row .col-lg-4 .a {
+   height: 400px;
+}
+#Aagra4 .row .col-lg-4 .b {
+    height: 70px;
+ }
+ /* #Aagra2 .row .col-lg-4 .c {
+    height: 180px;
+ } */
+
+ #Aagra4 .row .col-lg-4 .b h6 {
+    color: black;
+    font-weight:800;
+    font-size: 17px;
+    padding: 10px 20px;
+ }
+#Aagra4 .row .col-lg-4 .a img {
+    height:100%;
+    width:100%;
+ }
